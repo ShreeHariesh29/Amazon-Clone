@@ -15,7 +15,7 @@ function NavBar() {
                 <Link to="/"  style={{textDecoration:'none', listStyle:'none', color:'black',padding:'10px'}}> Home </Link>
                 <Link to="/products" style={{textDecoration:'none', listStyle:'none', color:'black',padding:'10px'}}> Products </Link>
                 <Link to="/addtocart" style={{textDecoration:'none', listStyle:'none', color:'black',padding:'10px'}}> Add to Cart </Link>
-                <Link to="/products" style={{textDecoration:'none', listStyle:'none', color:'black',padding:'10px'}}> Products </Link>
+                <Link to="/unique product" style={{textDecoration:'none', listStyle:'none', color:'black',padding:'10px'}}> About Us </Link>
             </ul>
         </nav>
         </div>
